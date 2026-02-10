@@ -9,5 +9,5 @@ cask "battery-monitor" do
 
   depends_on macos: ">= :ventura"
 
-  app "Battery Monitor.app", target: "Battery Monitor.app"
+  app "BatteryMonitor.app", target: "Battery Monitor.app"
 end
